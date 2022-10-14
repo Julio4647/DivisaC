@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de moneda</string>
+    <string name="monto">Ingresar monto</string>
+    <string name="convertir">Conversor de moneda </string>
+    <string name="btnEnviar">convertir</string>
+    <string-array name="divisas">
+        <item>Pesos mexicanos</item>
+        <item>Dolares</item>
+        <item>Euros</item>
+    </string-array>
+</resources>
